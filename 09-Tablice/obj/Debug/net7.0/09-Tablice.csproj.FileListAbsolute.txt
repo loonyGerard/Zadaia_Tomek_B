@@ -1,0 +1,5 @@
+C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\obj\Debug\net7.0\09-Tablice.csproj.AssemblyReference.cache
+C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\obj\Debug\net7.0\09-Tablice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\obj\Debug\net7.0\09-Tablice.AssemblyInfoInputs.cache
+C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\obj\Debug\net7.0\09-Tablice.AssemblyInfo.cs
+C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\obj\Debug\net7.0\09-Tablice.csproj.CoreCompileInputs.cache
