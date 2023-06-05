@@ -50,3 +50,12 @@ void GetRandomArray(int lenght, int min, int max)
 }
 
 // #7
+int Sum(int[] numbers)
+{
+    int sum = 0;
+    for (var i = 0; i < numbers.Length; i++)
+    {
+        sum += numbers[i];
+    }
+        return sum;
+}
