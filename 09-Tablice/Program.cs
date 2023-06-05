@@ -29,8 +29,24 @@ for (var i = 0; i < numbers.Length; i++)
     Console.WriteLine(x);
 }
 // #5
-Random random = new Random();
-int randomNumber = random.Next(3,33);
-Console.WriteLine(random);
+GetRandom(2,20);
+void GetRandom(int a, int b){
+    Random random = new Random();
+    int randomNumber = random.Next(a, b);
+    Console.WriteLine(random);
+}
 
 //#6
+void GetRandomArray(int lenght, int min, int max)
+{
+    Random random = new Random();
+    int[] randomArray = new int[lenght];
+
+    for (var i = 0; i < randomArray.Length; i++)
+    {
+        randomArray[i] = random.Next(min, max);
+    }
+       
+}
+
+// #7
