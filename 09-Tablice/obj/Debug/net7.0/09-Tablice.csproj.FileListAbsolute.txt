@@ -3,3 +3,13 @@ C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\obj\Debug\net7.0\09-Tablice.Generated
 C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\obj\Debug\net7.0\09-Tablice.AssemblyInfoInputs.cache
 C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\obj\Debug\net7.0\09-Tablice.AssemblyInfo.cs
 C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\obj\Debug\net7.0\09-Tablice.csproj.CoreCompileInputs.cache
+C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\bin\Debug\net7.0\09-Tablice.exe
+C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\bin\Debug\net7.0\09-Tablice.deps.json
+C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\bin\Debug\net7.0\09-Tablice.runtimeconfig.json
+C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\bin\Debug\net7.0\09-Tablice.dll
+C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\bin\Debug\net7.0\09-Tablice.pdb
+C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\obj\Debug\net7.0\09-Tablice.dll
+C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\obj\Debug\net7.0\refint\09-Tablice.dll
+C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\obj\Debug\net7.0\09-Tablice.pdb
+C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\obj\Debug\net7.0\09-Tablice.genruntimeconfig.cache
+C:\Dev\C#\Tomek Grupa B\Zadania\09-Tablice\obj\Debug\net7.0\ref\09-Tablice.dll
